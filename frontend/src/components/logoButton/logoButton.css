@@ -1,0 +1,23 @@
+.img {
+    height: 100px;
+    width: 300px;
+    background-image: url(../../assets/Teamfight_Tactics_logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    opacity: 0.9;
+
+    /* transition: ease width 1s; */
+
+}
+
+.img:hover {
+    cursor: pointer;
+    /* width: 250px; */
+
+    /* box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); */
+    opacity: 1;
+}

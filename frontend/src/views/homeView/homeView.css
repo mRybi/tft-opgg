@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-image: url(../../assets/tft-backgroud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .search-summoner {
+    width: 500px;
+  }
+
+  .input {
+    margin-right: 10px
+  }
