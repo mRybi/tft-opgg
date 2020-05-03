@@ -1,1 +1,1 @@
-tft
+Servis equavilent to op.gg that shows a statistics for teamfight tactics player.
